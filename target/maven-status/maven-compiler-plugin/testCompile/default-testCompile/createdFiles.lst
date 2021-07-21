@@ -1,0 +1,6 @@
+application\tests\BaseTest.class
+application\pages\ReservationPage.class
+application\pages\ConfirmationPage.class
+application\pages\HomePage.class
+application\pages\FlightPage.class
+application\tests\TC001_Flight_Booking_Test.class

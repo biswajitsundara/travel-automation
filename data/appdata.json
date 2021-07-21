@@ -1,0 +1,44 @@
+{
+  "HomePage": {
+    "heading": "Welcome to the Simple Travel Agency!",
+    
+      "TC001_Flight_Booking_Test": {
+        "from": "Paris",
+        "to": "London"
+      },
+      "TC002_Flight_Booking_Test": {
+        "from": "Paris",
+        "to": "Dublin"
+      }
+  },
+  
+  "FlightPage": {
+    "headingFirst": "Flights from",
+    
+      "TC001_Flight_Booking_Test": {
+        "from": "Paris",
+        "to": "London"
+      }
+  },
+  
+  "ReservationPage": {
+    "partialHeading": "has been reserved.",
+    
+      "TC001_Flight_Booking_Test": {
+        "name": "Biswajit Sundara",
+        "address": "123 Main Street",
+        "city": "Paris",
+        "state":"Paris",
+        "zipcode":"12345",
+        "cardType":"Visa",
+        "creditcard":"73657347794",
+        "month":"08",
+        "year": "2025",
+        "nameoncard":"Biswajit Sundara"
+      }
+  },
+  
+  "ConfirmationPage": {
+    "heading": "Thank you for your purchase today!"
+  }
+}

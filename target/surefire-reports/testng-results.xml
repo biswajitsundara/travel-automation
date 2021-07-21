@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-21T17:03:51 IST" name="Suite" finished-at="2021-07-21T17:04:02 IST" duration-ms="10429">
+    <groups>
+    </groups>
+    <test started-at="2021-07-21T17:03:51 IST" name="Test" finished-at="2021-07-21T17:04:02 IST" duration-ms="10429">
+      <class name="application.tests.TC001_Flight_Booking_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:application.tests.TC001_Flight_Booking_Test@44ebcd03]" started-at="2021-07-21T17:03:51 IST" name="setup" finished-at="2021-07-21T17:03:55 IST" duration-ms="3846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC001_Flight_Booking()[pri:0, instance:application.tests.TC001_Flight_Booking_Test@44ebcd03]" started-at="2021-07-21T17:03:55 IST" name="TC001_Flight_Booking" finished-at="2021-07-21T17:04:01 IST" duration-ms="5887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_Flight_Booking -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:application.tests.TC001_Flight_Booking_Test@44ebcd03]" started-at="2021-07-21T17:04:01 IST" name="teardown" finished-at="2021-07-21T17:04:02 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- application.tests.TC001_Flight_Booking_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
