@@ -39,6 +39,7 @@ public class TestListener implements ITestListener{
 	public void onTestFailure(ITestResult result) {
 		// TODO Auto-generated method stub
 		
+		test.log(LogStatus.FAIL, "Test Failed");
 	}
 
 	@Override

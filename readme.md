@@ -4,6 +4,12 @@
 ### Application URL
 https://blazedemo.com/
 
+### Tools Used
+* Selenium
+* TestNG
+* Json Path
+* Extent Reports
+
 ### How to setup the project
 * Clone the repository
 * Input data is available here `travel-automation\data` 
@@ -13,12 +19,12 @@ https://blazedemo.com/
 
 
 ### How to Execute the tests
-* Run `mvn test` and it will execute the test
+* Run `mvn clean test` and it will execute the test
 
 
 ### Viewing the Test Results
 * Extent Report can be accessed here `travel-automation\Report.html`
-* TestNG report can be found here - `travel-automation\target\surefire-reports`
+* Sure fire report can be found here - `travel-automation\target\surefire-reports`
 
 
 ### Automated TestCase
